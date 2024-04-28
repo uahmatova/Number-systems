@@ -1,0 +1,18 @@
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\лаба с графическим интерфейсом.exe
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\лаба с графическим интерфейсом.deps.json
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\лаба с графическим интерфейсом.runtimeconfig.json
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\лаба с графическим интерфейсом.dll
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\ref\лаба с графическим интерфейсом.dll
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\bin\Debug\net6.0-windows\лаба с графическим интерфейсом.pdb
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.csproj.AssemblyReference.cache
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.AssemblyInfoInputs.cache
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.AssemblyInfo.cs
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.csproj.CoreCompileInputs.cache
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.dll
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\ref\лаба с графическим интерфейсом.dll
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.pdb
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.genruntimeconfig.cache
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба_с_графическим_интерфейсом.Form1.resources
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба_с_графическим_интерфейсом.Properties.Resources.resources
+C:\Users\uahma\source\repos\лаба с графическим интерфейсом\лаба с графическим интерфейсом\obj\Debug\net6.0-windows\лаба с графическим интерфейсом.csproj.GenerateResource.cache
